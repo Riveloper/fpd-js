@@ -1,5 +1,5 @@
 {
-  "name": "fpd-js",
+  "name": "fpd",
   "version": "1.0.0",
   "description": "\"# fpd-js\"",
   "directories": {
@@ -55,5 +55,6 @@
     "tinycolor2": "^1.6.0",
     "vanilla-picker": "^2.12.2",
     "webfontloader": "^1.6.28"
-  }
+  },
+  "main": "gulpfile.js"
 }
